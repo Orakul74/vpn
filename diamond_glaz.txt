@@ -13,5 +13,3 @@ trojan://vpn@109.120.132.80:2025?type=ws&path=%2F&host=dns.google.com&security=n
 trojan://vpn@109.120.132.142:2025?type=ws&path=%2F&host=dns.google.com&security=none#🇸🇪Sweden№6|@FreeDiamondGlaz|4GB
 trojan://vpn@138.124.24.174:2025?type=ws&path=%2F&host=dns.google.com&security=none#🇸🇪Sweden№9|@FreeDiamondGlaz|2GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0%9F%87%B7%F0%9F%87%BA%20RU
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=&encryption=none&headerType=none&type=tcp#🇺🇦UA-1
-vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=&type=tcp&encryption=none#🇺🇦UA-2
