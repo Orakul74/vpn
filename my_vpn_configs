@@ -16,3 +16,13 @@ vless://9f7a44b8-617c-46de-bbe0-152e52570d69@45.149.234.236:443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0%9F%87%B7%F0%9F%87%BA%20Russia%203
 vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557?security=&type=tcp&headerType=http&host=dns.google.com&encryption=none#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20%20%F0%9F%87%B7%F0%9F%87%BA%F0%9F%92%80%0A@FreeDiamondGlaz
 vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557?encryption=none&headerType=http&host=internet.life.com.by&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BARussia11
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.52.242:80?encryption=none&host=vk.com&path=%2Fnews&security=none&type=ws#SNI=vk.com_1
+vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?encryption=none&host=vk.com&path=%2F&security=none&type=ws#SNI=vk.com_2
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?allowInsecure=1&encryption=none&path=%2F&security=tls&sni=vk.com&type=ws#SNI=vk.com_3
+vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?encryption=none&host=vk.com&path=%2Fpanika&security=none&type=ws#SNI=vk.com_4
+vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?allowInsecure=1&encryption=none&path=%2Frsrjowws&security=tls&sni=vk.com&type=ws#SNI=vk.com_5
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.52.242:80?encryption=none&host=ok.ru&path=%2Fnews&security=none&type=ws#SNI=ok.ru_1
+vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?encryption=none&host=ok.ru&path=%2F&security=none&type=ws#SNI=ok.ru_2
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?allowInsecure=1&encryption=none&path=%2F&security=tls&sni=ok.ru&type=ws#SNI=ok.ru_3
+vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?encryption=none&host=ok.ru&path=%2Fpanika&security=none&type=ws#SNI=ok.ru_4
+vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?allowInsecure=1&encryption=none&path=%2Frsrjowws&security=tls&sni=ok.ru&type=ws#SNI=ok.ru_5
