@@ -30,7 +30,6 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@45.139.196.153:443?security=tls&sni
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?security=&type=ws&path=/news&host=vk.ru&encryption=none#Austria,vk.ru
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?security=&type=ws&path=/news&host=vk.ru&encryption=none#Germany2,vk.ru
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=&type=ws&path=/news&host=vk.ru&encryption=none#Germany3,vk.ru
-
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@45.139.196.153:443?security=tls&sni=ok.ru&allowInsecure=1&type=ws&path=/api/v1&encryption=none#Germany1,ok.ru
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?security=&type=ws&path=/news&host=ok.ru&encryption=none#Austria,ok.ru
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?security=&type=ws&path=/news&host=ok.ru&encryption=none#Germany2,ok.ru
