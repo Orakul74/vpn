@@ -59,5 +59,6 @@ vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&sni
 vless://6d3d21ef-b24a-4932-8393-7efc90c3d89c@midorinote.ru:8443?security=reality&sni=m.vk.com&fp=random&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=808e2d36726ee97e&type=tcp&flow=xtls-rprx-vision&encryption=none#0062%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20VK%20%7C%20%F0%9F%8C%8D%20Unknown%20%7C%20VLESS%20%7C%20TG:%20@YoutubeUnBlockRu
 vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@193.233.254.154:8443?security=reality&sni=eh.vk.com&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&flow=xtls-rprx-vision&encryption=none#0054%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20VK%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20VLESS%20%7C%20TG:%20@YoutubeUnBlockRu
 vless://405ec164-7923-4d76-8be5-7ae96e444f4e@62.60.246.188:443?security=reality&sni=web.max.ru&fp=chrome&pbk=o3H8CUivdt6lbFH6S7CQZ6dua7nUg5rYtPdSyXpjpx0&sid=6104c5e9613ea56c&type=tcp&flow=xtls-rprx-vision&encryption=none#0177%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20VK%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20VLESS%20%7C%20TG:%20@YoutubeUnBlockRu
-hy2://myptyun.Hu5bS3VYUd3iqmaU@1o1.690423.xyz:8443?mport=8443,7044,20000-50000#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+hy2://myptyun.Hu5bS3VYUd3iqmaU@1o1.690423.xyz:8443?mport=8443,7044,20000-50000#%F0%9F%87%A9%F0%9F%87%AA%20Germany1
+hy2://myptyun.Hu5bS3VYUd3iqmaU@1o2.690423.xyz:8443?mport=8443,7044,20000-50000#%F0%9F%87%A9%F0%9F%87%AA%20Germany2
 #---------------------------------------------------------------------
