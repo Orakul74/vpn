@@ -116,3 +116,12 @@ vmess://db50a20e-7ff5-4e70-948f-17cc9ca7c154@185.232.204.222:443?security=tls&sn
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8[openproxylist.com]%20ss-US
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#4027%20%7C%20%D1%80%D1%9F%E2%80%A1%D0%87%D1%80%D1%9F%E2%80%A1%C2%B5%20Japan%20%7C%20SS%20%7C%20%D1%80%D1%9F%D0%8A%D1%9F%20Gemini%20%7C%20%D1%80%D1%9F%E2%80%9C%D1%94%20YT%20%7C%20%D1%80%D1%9F%E2%80%9D%D1%92%20Stable%20%7C%20TG:%20@YoutubeUnBlockRu
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#8025%20%7C%20%D1%80%D1%9F%E2%80%A1%D0%87%D1%80%D1%9F%E2%80%A1%C2%B5%20Japan%20%7C%20SS%20%7C%20%D1%80%D1%9F%D0%8A%D1%9F%20Gemini%20%7C%20%D1%80%D1%9F%E2%80%9C%D1%94%20YT%20%7C%20%D1%80%D1%9F%E2%80%9D%D1%92%20Stable%20%7C%20TG:%20@YoutubeUnBlockRu
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@77.110.104.125:8443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&type=grpc&serviceName=your-custom-path&packetEncoding=xudp#[OpenRay]%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35274
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@77.110.104.125:8443?encryption=none&security=reality&sni=maps.apple.com&fp=firefox&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&type=grpc&serviceName=your-custom-path&packetEncoding=xudp#[OpenRay]%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35265
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#[OpenRay]%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2141
+vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=SX1vaYIIZcbcfO3RrAPhYQ1FAeA7bkcDZJtEDN9pbxw&sid=94c8a1b378da7250&packetEncoding=xudp#[OpenRay]%20%F0%9F%87%BA%F0%9F%87%B8%20US-25341
+vmess://35b89832-0a7c-48dd-8d1c-a2891b522195@45.32.57.118:4433?packetEncoding=xudp#[OpenRay]%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4571
+vmess://154dbc39-0921-cf11-29bd-156c5000d763@155.248.176.44:55216?packetEncoding=xudp#[OpenRay]%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4446
+vmess://d3bcc1f1-6294-4f68-bcf3-c3bcb2001520@156.226.183.181:54321?packetEncoding=xudp#[OpenRay]%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2932
+trojan://HC04361579@renewing-ewe.rooster465.autos:443?security=tls#[OpenRay]%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2715
+trojan://EQ30679154@kind-unicorn.rooster465.autos:443?security=tls&sni=kind-unicorn.rooster465.autos#[OpenRay]%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2705
